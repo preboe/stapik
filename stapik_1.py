@@ -38,5 +38,4 @@
 # print(n % k)
 
 n = int(input())
-print(n ** (100 // -50))
-
+print((n + 1) // 2)
