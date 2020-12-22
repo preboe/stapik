@@ -37,5 +37,7 @@
 # print(n // k)
 # print(n % k)
 
-n = int(input())
-print((n + 1) // 2)
+# n = int(input())
+# print((n + 1) // 2)
+
+
